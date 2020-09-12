@@ -1,0 +1,141 @@
+*{
+
+    margin: 0%;
+    padding: 0;
+
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background: rgb(252,246,186);
+    background: linear-gradient(-107deg, rgb(251, 244, 165) 0%, rgb(216, 178, 53) 19%, rgba(179,135,40,1) 41%, rgb(226, 172, 56) 77%, rgb(233, 172, 41) 79%);
+}
+
+label{
+    font-size:1rem;
+    line-height: 1.70rem;
+}
+/* .Gbackground{
+    display: flex;
+    flex-flow: column;
+    height: 100%;
+    background: rgb(252,246,186);
+    background: linear-gradient(-107deg, rgba(252,246,186,1) 0%, rgba(233,193,60,1) 19%, rgba(179,135,40,1) 41%, rgba(229,179,75,1) 77%, rgba(229,179,75,1) 79%);
+  
+  } */
+
+
+
+hr{
+    height:2px;
+    color:white;
+    margin: 1.2rem 1rem 1.2rem;
+
+}
+
+.white{
+    color: white;
+}
+
+.logo{
+    padding-top:2rem;
+    padding-left:1rem;
+}
+
+.quizbody{
+    padding-top:2rem;
+    padding-left:1rem;
+    padding-right:1rem;
+    
+}
+
+.Qhead{
+    margin-left:2rem;
+    display:flex;
+}
+.qt{
+    margin-top: 0.7rem;
+}
+
+.warning{
+
+    border-top-left-radius: 14px;
+    margin: auto 1rem auto;
+    padding:0.5rem;
+    background-color:rgba(255, 255, 255, 1);
+    color:rgb(0, 0, 0);
+   
+}
+
+.container{
+    margin-top: 1rem;
+    border: 1px solid white;
+    border-radius: 24px;
+    padding:2rem 1rem 2rem;
+}
+
+.qtexthead{
+    display:flex;
+}
+
+.Qqtext{
+
+    padding:0rem 1rem 0rem;
+
+}
+
+.OPbody{
+    margin-top:2rem;
+    margin-left: 1rem;
+    color: white;
+    display:none;
+   
+    
+}
+
+.OPbody2{
+    margin-top:2rem;
+    margin-left: 1rem;
+    color: white;
+   
+   
+    
+}
+
+.OP1{
+    background-color: rgb(255, 255, 255,0.20);
+    padding:2rem;
+    margin: 1rem auto 1rem; 
+    border-radius: 12px
+    
+    ;
+}
+
+.btnContainer{
+    margin:2rem auto;
+    text-align: center;
+}
+
+.btn1{
+    background-color:rgb(255, 255, 255, .15);
+    color:white;
+    border: 0px;
+    border-radius:12px;
+    padding:1rem 2rem 1rem;
+    margin: auto 1rem auto;
+    font-size: 1.20rem;
+}
+
+.btn2{
+    background-color:rgb(255, 255, 255, .29);
+    color:white;
+    border: 0px;
+    border-radius:12px;
+    padding:1rem 2rem 1rem;
+    margin: auto 1rem auto;
+    font-size: 1.20rem;
+}
+
+
+
